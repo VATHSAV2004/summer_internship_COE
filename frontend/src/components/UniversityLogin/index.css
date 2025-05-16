@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa; /* Light background for contrast */
+  }
+  
+  h2 {
+    color: #343a40; /* Dark color for the heading */
+  }
+  
+  .btn-success {
+    background-color: #9ACD32; /* Matching header color */
+    border-color: #9ACD32;
+  }
+  
+  .btn-success:hover {
+    background-color: #7BBE27; /* Slightly darker on hover */
+    border-color: #7BBE27;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem; /* Match Bootstrap's border radius */
+  }
+  
+  .container {
+    margin-top: 50px; /* Top margin for spacing */
+  }
+  

@@ -1,0 +1,31 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background color */
+}
+
+.searchbar-css {
+    border-radius: 20px;
+    height: 40px;
+    width: 50vw; /* Width of the search bar */
+    background-color: #fff; /* White background for the search bar */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; /* Box shadow for depth */
+    margin: 20px auto; /* Center the search bar */
+    border: 1px solid #ced4da; /* Border matching Bootstrap */
+}
+
+.suggestions-list {
+    width: 50vw; /* Match the search bar width */
+    position: absolute; /* Position the list below the input */
+    z-index: 1000; /* Ensure it's above other elements */
+}
+
+.suggestion-item {
+    cursor: pointer; /* Pointer cursor for better UX */
+}
+
+.suggestion-item:hover {
+    background-color: #f1f1f1; /* Highlight on hover */
+}

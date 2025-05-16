@@ -1,0 +1,21 @@
+.container {
+    background-color: #f8f9fa; /* Light background color to match the header */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+h2 {
+    color: #343a40; /* Dark color for headings */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center align the cards */
+}
+
+.col-md-4 {
+    display: flex;
+    justify-content: center; /* Center the card within the column */
+}

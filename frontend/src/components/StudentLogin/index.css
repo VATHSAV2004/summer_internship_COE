@@ -1,0 +1,37 @@
+/* Center the login form container */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Card styling */
+.login-card {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #f8f9fa;
+}
+
+/* Form input styling */
+.form-control {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: #9ACD32;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #9ACD32;
+}

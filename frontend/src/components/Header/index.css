@@ -1,0 +1,22 @@
+/* index.css */
+.logo-css {
+    color: #9ACD32; /* Light green color for logo */
+    font-size: 1.75rem; /* Adjust logo font size */
+}
+
+.navbar-nav .nav-link {
+    color: white !important; /* Link color */
+    margin-left: 10px; /* Spacing between links */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #9ACD32 !important; /* Hover color for links */
+}
+
+.navbar {
+    padding: 1rem; /* Add padding for a neat appearance */
+}
+
+.anchors-container-css {
+    text-align: right; /* Align the links to the right */
+}

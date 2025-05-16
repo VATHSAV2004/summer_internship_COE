@@ -1,0 +1,29 @@
+.university-card {
+    background-color: #f8f9fa; /* Light background color */
+    border: 1px solid #9ACD32; /* Bootstrap primary color */
+    border-radius: 8px; /* Rounded corners */
+    margin: 15px; /* Space between cards */
+    height: 200px; /* Fixed height for uniformity */
+    transition: transform 0.2s; /* Smooth hover effect */
+}
+
+.university-card:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+}
+
+.university-name {
+    color: #9ACD32; /* Bootstrap primary color */
+    font-size: 1.5rem; /* Title size */
+}
+
+.project-explore-css {
+    color: #6c757d; /* Bootstrap secondary text color */
+    font-weight: 500; /* Medium weight */
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+    .university-card {
+        height: 180px; /* Adjust height on small screens */
+    }
+}

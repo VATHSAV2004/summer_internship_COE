@@ -1,0 +1,49 @@
+.containercss {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px; /* Add some padding for better spacing */
+}
+
+.background-css {
+    background-color: #ffffff; /* Soft light green background */
+    align-self: stretch;
+    margin: 60px;
+    padding: 20px; /* Add padding for content spacing */
+    border-radius: 10px; /* Rounded corners for a smoother look */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.imagecss {
+    height: 35vh;
+    width: 20vw;
+    border-radius: 50%;
+    margin-bottom: 20px; /* Space below the image */
+}
+
+.paracss {
+    color: #333; /* Dark gray for better readability */
+    font-weight: bold;
+}
+
+.profile-anchor-css {
+    text-decoration: none;
+    color: #007bff; /* Bootstrap link color */
+}
+
+.descriptioncss {
+    color: #666; /* Medium gray for description */
+    font-weight: bold;
+}
+
+.paracss-name {
+    color: #2c3e50; /* Dark blue for the name */
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.heading-css {
+    color: #2c3e50; /* Dark blue for headings */
+}

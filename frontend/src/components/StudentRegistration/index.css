@@ -1,0 +1,40 @@
+/* src/components/StudentRegistration/index.css */
+
+.registration-container {
+    max-width: 400px;
+    margin: auto;
+}
+
+.registration-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.registration-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+.dropdown {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    max-height: 150px;
+    overflow-y: auto;
+    position: absolute; /* Position relative to parent */
+    background-color: white;
+    z-index: 1000; /* Ensure dropdown is above other elements */
+}
+
+.dropdown li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.dropdown li:hover {
+    background-color: #f0f0f0; /* Highlight on hover */
+}
+
+button {
+    padding: 10px 15px;
+}

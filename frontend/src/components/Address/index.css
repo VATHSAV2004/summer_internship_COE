@@ -1,0 +1,34 @@
+/* src/components/Address/index.css */
+.address-background {
+    background-color: #343a40; /* Dark background */
+    height: 130px; /* Fixed height */
+    color: white; /* Text color */
+    width: 100%; /* Full width */
+    text-align: center; /* Center-align text */
+    padding: 10px 0; /* Vertical padding */
+    z-index: 1000; /* Ensure it's above other content */
+    display: flex; /* Use flexbox for alignment */
+    flex-direction: column; /* Align children vertically */
+    justify-content: center; /* Center items vertically */
+}
+
+.logo-css {
+    background-color: #9ACD32; /* Bootstrap-like green */
+    color: white; /* Logo text color */
+    font-family: "Bree Serif", serif; /* Font family */
+    font-weight: bold; /* Font weight */
+    padding: 10px; /* Padding around the logo */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; /* Shadow effect */
+    border-radius: 5px; /* Rounded corners */
+    margin: auto; /* Remove margin */
+    width:18%;
+}
+
+.address-details {
+    margin-top: 5px; /* Space between logo and address */
+}
+
+.address-text {
+    margin: 2px 0; /* Space between address lines */
+    font-size: 1.1rem; /* Font size */
+}

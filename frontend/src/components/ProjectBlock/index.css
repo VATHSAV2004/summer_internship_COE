@@ -1,0 +1,25 @@
+.project-image-css{
+   
+    height:25vh;
+    width:20vw;
+   
+}
+.project-heading-css{
+    color:#9ACD32;
+    
+   
+}
+.project-explore-css{
+    color:gold;
+    align-self:flex-end;
+}
+.project-block-css{
+    display:flex;
+    flex-direction:column;
+    padding:10px;
+    min-width:30vw !important;
+    background-color: white;
+    border-radius:20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin:20px;
+}
