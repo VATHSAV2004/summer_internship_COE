@@ -18,7 +18,6 @@ Our platform is a <strong>unified academic project management system</strong> de
   <li>🗃️ <strong>SQLite Database:</strong> Lightweight and efficient database management for project data and user accounts.</li>
 </ul>
 
-<img src="Screenshot%202025-05-19%20123943.png" alt="Screenshot" width="600">
 
 
 <hr>
@@ -62,5 +61,10 @@ If plagiarism is detected above the allowed threshold (e.g., <strong>75%</strong
 <img src="Screenshot 2025-05-19 124503.png" alt="Plagiarism Detection Screenshot" width="600"/>
 
 <blockquote>📨 The email includes details about the matched project and alerts the original author.</blockquote>
+
+---
+<h3>Screenshots of project</h3>
+
+<img src="Screenshot%202025-05-19%20123943.png" alt="Screenshot" width="600">
 
 
