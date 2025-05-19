@@ -63,8 +63,12 @@ If plagiarism is detected above the allowed threshold (e.g., <strong>75%</strong
 <blockquote>📨 The email includes details about the matched project and alerts the original author.</blockquote>
 
 ---
-<h3>Screenshots of project</h3>
+<h3>Below are some of the Screenshots of project</h3>
 
 <img src="Screenshot%202025-05-19%20123943.png" alt="Screenshot" width="600">
+
+<img src="Screenshot 2025-05-19 125704.png" alt="Screenshot" width="600">
+<img src="Screenshot 2025-05-19 125713.png" alt="Screenshot" width="600">
+
 
 
