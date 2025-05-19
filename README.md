@@ -3,6 +3,7 @@
 <img src="Screenshot%202025-05-19%20123943.png" alt="Screenshot" width="600">
 
 
+<hr>
 
 <h3>🧠 Recommender System</h3>
 
@@ -23,6 +24,7 @@ Our platform features a <strong>smart recommender system</strong> that suggests 
 This helps users <strong>explore similar projects with ease</strong>.
 </p>
 
+<hr>
 
 
 <h3>📌 Plagiarism Detection and Email Notification</h3>
